@@ -1,0 +1,1 @@
+export const cookieUserInfo = 'JW_BILI_USER';
